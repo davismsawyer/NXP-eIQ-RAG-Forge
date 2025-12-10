@@ -1,0 +1,5 @@
+{
+  "name": "RAG Forge - NXP",
+  "description": "NXP eIQ RAG Forge - A visual interface to drag & drop PDFs, simulate parsing/chunking pipelines, and chat with documents.",
+  "requestFramePermissions": []
+}
